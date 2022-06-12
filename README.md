@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](AgentARVS.vercel.app/api/spotify?background_color=0d1117&border_color=ff66cc)](https://open.spotify.com/user/der_noobie)
+&nbsp; <br> [![Spotify](novatorem-jndy0y48m-agentarvs.vercel.app/api/spotify](https://open.spotify.com/user/der_noobie)
 
   </td>
   <td width="50%">
