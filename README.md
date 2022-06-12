@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://agentarvs.vercel.app/api/spotify)](https://open.spotify.com/user/der_noobie)
+&nbsp; <br> [![Spotify](https://novatorem-5y99zzyrs-agentarvs.vercel.app/api/spotify)](https://open.spotify.com/user/der_noobie)
 
 
 
